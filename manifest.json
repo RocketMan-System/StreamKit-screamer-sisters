@@ -1,0 +1,28 @@
+{
+	"name": {
+		"en": "Sisters of Darkness",
+		"ru": "Сёстры тьмы",
+		"ua": "Сестри темряви"
+	},
+	"description": {
+		"en": "A lot of kids don't like clowns. But any kid will love one 😈",
+		"ru": "Девчонки с того света внезапно решат вылезти на экран стримера 😈",
+		"ua": "Дівчата з того світу раптово вирішать вилізти на екран стримера 😈"
+	},
+	"author": "RocketMan",
+	"version": "1.0.0",
+	"type": "screamer",
+	"params": {
+		"video": {
+			"path": "media/Sister.webm",
+			"hideEnd": true
+		},
+		"sound": {
+			"path": "media/Sister.mp3"
+		}
+	},
+	"settings": {
+		"lockSeconds": 9,
+		"volume": 50
+	}
+}
